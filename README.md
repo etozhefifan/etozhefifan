@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there, I'm Ivan 👋
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=etozhefifan&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **etozhefifan/etozhefifan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
