@@ -1,4 +1,4 @@
-## Hi there, I'm Ivan 👋
+## Hi there,
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=etozhefifan&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
